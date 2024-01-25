@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
-public class AdventCode {
+public class AdventCodePart2 {
 
     public static ArrayList<String> linesArray = new ArrayList<>();
 
