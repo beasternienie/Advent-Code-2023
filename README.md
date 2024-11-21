@@ -9,3 +9,4 @@ some coding challenges would be a great way to reinforce my learning. After lear
 ## My solutions
 
 [Day 1](/Day-1)
+[Day 6](/Day-6)
